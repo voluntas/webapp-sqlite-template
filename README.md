@@ -13,6 +13,8 @@
 
 - データベースに SQLite を利用
 - こちらは参考程度でメンテナンスはあまり頑張っていません
+- データベースに TimescaleDB を利用している版はこちら
+    - https://github.com/voluntas/webapp-template
 
 ```
 go 1.19
