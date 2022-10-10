@@ -14,7 +14,7 @@ import (
 	"github.com/labstack/echo/v4/middleware"
 
 	zlog "github.com/rs/zerolog/log"
-	sqlc "github.com/voluntas/webapp/gen/sqlc"
+	sqlc "github.com/voluntas/webapp-sqlite/gen/sqlc"
 )
 
 // TODO(v): 定数どうにかする

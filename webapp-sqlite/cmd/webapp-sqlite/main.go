@@ -8,7 +8,7 @@ import (
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/voluntas/webapp"
+	"github.com/voluntas/webapp-sqlite"
 	"golang.org/x/sync/errgroup"
 )
 
